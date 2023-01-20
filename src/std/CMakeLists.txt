@@ -1,0 +1,2 @@
+INCLUDE_DIRECTORIES(..) # 添加头文件目录
+ADD_LIBRARY(io SHARED io.cpp)
